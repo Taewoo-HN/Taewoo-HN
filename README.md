@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 const Taewoo = {
-"name" : "Taewoo Sung"
+"name" : "Taewoo Sung" , "Tech Stack" : "Java, Python" 
 }
 <!--
 **Taewoo-HN/Taewoo-HN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

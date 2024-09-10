@@ -1,4 +1,4 @@
-## Hi there 👋
+## print("Hello World@!") 👋
 
 const Taewoo = {
 "name" : "Taewoo Sung" , "Tech Stack" : "Java, Python" 

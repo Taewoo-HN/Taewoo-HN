@@ -5,7 +5,8 @@
 Taewoo = {
   "Email"      : "confort28@gmail.com",
   "github"     : "Taewoo-HN",
-  "instagram"  : "lime_tw_hena" 
+  "instagram"  : "lime_tw_hena"
+  "Major"      : ["English Education, History Education at Chongshin University", "Chinese at Seoul Foreign Language High School"] 
 }
 
 ```

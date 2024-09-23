@@ -32,7 +32,8 @@ Taewoo = {
 
 #### ML/DL Library
 <img src="https://img.shields.io/badge/scikit_learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=grey">  
-<img src="https://img.shields.io/badge/tensorflow-000000?style=for-the-badge&logo=tensorflow&logoColor=orange">  
+<img src="https://img.shields.io/badge/tensorflow-000000?style=for-the-badge&logo=tensorflow&logoColor=orange">
+<img src="https://img.shields.io/badge/keras-000000?style=for-the-badge&logo=keras&logoColor=red">
 <img src="https://img.shields.io/badge/hugging face-000000?style=for-the-badge&logo=huggingface&logoColor=yellow">  
 
 #### Tools

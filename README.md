@@ -45,6 +45,7 @@ Taewoo = {
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=navy">
 <img src="https://img.shields.io/badge/oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/beekeeper studio-FAD83B?style=for-the-badge&logo=beekeeperstudio&logoColor=black">
+<img src="https://img.shields.io/badge/google cloud platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=orange">
 
 #### OS
 <img src="https://img.shields.io/badge/ubuntu-FF6F00?style=for-the-badge&logo=ubuntu&logoColor=white">  
